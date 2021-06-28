@@ -1,0 +1,2 @@
+This bash script will update version number along with git hash and build number for android and ios mobile apps.
+Especially this script should attach to mobile app build process as a prebuild task and I have successfully tried this for Xamarine cross platform app.
